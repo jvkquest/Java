@@ -2,6 +2,8 @@ package com.nirman.easymock;
 
 public class Customer {
 
+	//Making changes for test.
+	//Tim said couple of changes
 	String name;
 	Retailer retailer;
 
